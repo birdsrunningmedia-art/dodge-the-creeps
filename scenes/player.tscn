@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://dh3dwrutm0m0v" path="res://art/playerGrey_up1.png" id="1_dqkch"]
 [ext_resource type="Texture2D" uid="uid://dfn7cv5ieosq" path="res://art/playerGrey_walk1.png" id="1_g2els"]
-[ext_resource type="Script" uid="uid://uj8o2xfgdlam" path="res://player.gd" id="1_qlg0r"]
+[ext_resource type="Script" uid="uid://uj8o2xfgdlam" path="res://scripts/player.gd" id="1_qlg0r"]
 [ext_resource type="Texture2D" uid="uid://bo4lw77hl4ge5" path="res://art/playerGrey_walk2.png" id="2_qhqgy"]
 [ext_resource type="Texture2D" uid="uid://3mmntd0dinp7" path="res://art/playerGrey_up2.png" id="2_qlg0r"]
 
